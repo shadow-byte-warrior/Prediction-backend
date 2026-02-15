@@ -51,7 +51,4 @@ temp_*.edf
 
 # Project specific
 verify_output.txt
-test_predict_real.py
-inspect_model.py
-inspect_h5.py
-verify_model_weights.py
+inspection_*.txt
