@@ -1,7 +1,7 @@
 fastapi
 uvicorn
 python-multipart
-tensorflow-cpu
+tensorflow==2.15.0
 mne
 scipy
 pyedflib
